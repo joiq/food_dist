@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+/.php
+.pnp.js
+
+#testing
+/coverage
+
+#production
+/build
+
+/workspace.code-workspace
